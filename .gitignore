@@ -1,0 +1,7 @@
+# AI agent scratch/work files
+.ai/
+.agent/
+.plans/
+.handoffs/
+*.handoff.md
+*.plan.tmp.md
